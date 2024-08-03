@@ -16,3 +16,8 @@ Successful completion:
 [![asciicast](https://asciinema.org/a/qT0GgJzDCYtALnWCXJVbZpiu5.svg)](https://asciinema.org/a/qT0GgJzDCYtALnWCXJVbZpiu5)
 Losing:
 [![asciicast](https://asciinema.org/a/XMSwRrewWM7k3MWGlhVb3NeyR.svg)](https://asciinema.org/a/XMSwRrewWM7k3MWGlhVb3NeyR)
+## Brain-progression
+Successful completion:
+[![asciicast](https://asciinema.org/a/IqgNYjfqUuaOafPjI2n2mSMfM.svg)](https://asciinema.org/a/IqgNYjfqUuaOafPjI2n2mSMfM)
+Losing:
+[![asciicast](https://asciinema.org/a/1gmTOLPMG2wcX0elE5gtTml9U.svg)](https://asciinema.org/a/1gmTOLPMG2wcX0elE5gtTml9U)
