@@ -1,5 +1,6 @@
 import random
 import prompt
+from brain_games.cli import welcome_user
 
 
 def gcd(a, b):
@@ -9,9 +10,7 @@ def gcd(a, b):
 
 
 def brain_gcd():
-    print('Welcome to the Brain Games!')
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!')
+    name = welcome_user()
     print('Find the greatest common divisor of given numbers.')
 
     correct_answers = 0
