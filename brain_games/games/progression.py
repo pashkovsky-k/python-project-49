@@ -3,16 +3,16 @@ import prompt
 from brain_games.cli import welcome_user
 
 
-def arithmetic_progression(start, difference, terms):
-    progression = []
-    count = 0
-    while count < terms:
-        progression.append(start + difference * count)
-        count += 1
-    return progression
-
-
 def brain_progression():
+
+    def arithmetic_progression(start, difference, terms):
+        progression = []
+        count = 0
+        while count < terms:
+            progression.append(start + difference * count)
+            count += 1
+        return progression
+
     name = welcome_user()
     print('What number is missing in the progression?')
 

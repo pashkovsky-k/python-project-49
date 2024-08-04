@@ -3,13 +3,13 @@ import prompt
 from brain_games.cli import welcome_user
 
 
-def gcd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
-
-
 def brain_gcd():
+
+    def gcd(a, b):
+        while b:
+            a, b = b, a % b
+        return a
+
     name = welcome_user()
     print('Find the greatest common divisor of given numbers.')
 
