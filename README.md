@@ -21,3 +21,8 @@ Successful completion:
 [![asciicast](https://asciinema.org/a/IqgNYjfqUuaOafPjI2n2mSMfM.svg)](https://asciinema.org/a/IqgNYjfqUuaOafPjI2n2mSMfM)
 Losing:
 [![asciicast](https://asciinema.org/a/1gmTOLPMG2wcX0elE5gtTml9U.svg)](https://asciinema.org/a/1gmTOLPMG2wcX0elE5gtTml9U)
+## Brain-prime
+Successful completion:
+[![asciicast](https://asciinema.org/a/bMiEYCGeMONaKxRTNAac2Cu2Q.svg)](https://asciinema.org/a/bMiEYCGeMONaKxRTNAac2Cu2Q)
+Losing:
+[![asciicast](https://asciinema.org/a/bs6XazZvk16Nvjaq0QtpwPx9t.svg)](https://asciinema.org/a/bs6XazZvk16Nvjaq0QtpwPx9t)
