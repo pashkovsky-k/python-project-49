@@ -23,7 +23,7 @@ def brain_gcd():
         print(f'Question: {a} {b}')
         user_answer = prompt.string('Your answer: ')
 
-        if int(user_answer) == gcd(a, b):
+        if int(user_answer) == correct_answer:
             print('Correct!')
             correct_answers += 1
         else:
