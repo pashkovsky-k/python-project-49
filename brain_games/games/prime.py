@@ -3,15 +3,16 @@ import prompt
 from brain_games.cli import welcome_user
 
 
-def brain_prime():
-    
-    def is_prime(number):
-        if number <= 1:
+def is_prime(number):
+    if number <= 1:
+        return 'no'
+    for i in range(2, int(number ** 0.5) + 1):
+        if number % i == 0:
             return 'no'
-        for i in range(2, int(number ** 0.5) + 1):
-            if number % i == 0:
-                return 'no'
-        return 'yes'
+    return 'yes'
+
+
+def brain_prime():
 
     name = welcome_user()
     print('Answer "yes" if given number is prime. Otherwise answer "no".')
